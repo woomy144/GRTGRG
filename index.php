@@ -71,7 +71,7 @@
 							<div class='landing-btn-container'>
 								<a href="/download">
 								<div class='landing-btn-download'>
-									<span>Download</span>
+									<span>Play</span>
 								</div>
 								</a>
 							</div>
