@@ -61,12 +61,12 @@
 						<div class='landing-ico-logo'>
 						</div>
 						<div class='landing-tx1-heading pulsate'>
-							<h1>Open-source<br>
-							 PlayStation 3 Emulator</h1>
+							<h1>Vorty-arras<br>
+							 Info Menu</h1>
 						</div>
 						<div class='landing-tx2-heading'>
 							<p>
-								 RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux and BSD.
+								 Vorty arras build on Js css html php this Info menu for vorty arras thx for play
 							</p>
 							<div class='landing-btn-container'>
 								<a href="/download">
