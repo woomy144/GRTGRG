@@ -187,7 +187,7 @@
 							</div>
 							<div class="patreon-tx2-mantra darkmode-txt">
 								<p>
-									 Our developers are pushing the very boundaries of what an emulator can do and how it can perform. Our rapid progression would not be possible without our Patrons. Our patrons not only keep us motivated, but keep our lead developers working on the project full time.
+						                  Mockup for your site on css js php
 								</p>
 							</div>
 							<a href="https://www.patreon.com/Nekotekina" target="_blank">
@@ -195,7 +195,7 @@
 								<div class="patreon-ico-button">
 								</div>
 								<div class="patreon-tx1-button">
-									<span>Become a patron</span>
+									<span>dowload</span>
 								</div>
 							</div>
 							</a>
@@ -228,7 +228,7 @@
 								<div class="discord-ico-button">
 								</div>
 								<div class="discord-tx1-button">
-									<span>Join The Discussion</span>
+									<span>Support</span>
 								</div>
 							</div>
 							</a>
